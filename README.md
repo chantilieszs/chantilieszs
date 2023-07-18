@@ -17,7 +17,7 @@
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
-          
+  ![Snake animation](https://github.com/chantilieszs/chantilieszs/blob/output/github-contribution-grid-snake.svg)        
           
                  
           
