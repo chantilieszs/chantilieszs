@@ -4,7 +4,7 @@
   
   <img width="100%" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif">
   <h3>Linguagens</h3> </br>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> 
   </a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
