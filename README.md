@@ -31,15 +31,15 @@
   <a href="https://docs.djangoproject.com/en/4.2/">
     <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
   </a>
-  <a href="https://www.postgresql.org/docs/">
+  <a href="https://www.postgresql.org/docs/" target="_blank">
     <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   </a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/">
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
     <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/">
+  <a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank">
     <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
   </a>
-  <a href="https://www.selenium.dev/documentation/">
+  <a href="https://www.selenium.dev/documentation/" target="_blank">
     <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
   </a>
