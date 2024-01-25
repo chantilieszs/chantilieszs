@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 Estou aprendendo C#
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chantilieszs/)
   
   <img width="100%" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif">
   <h3>Linguagens</h3> </br>
