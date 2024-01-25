@@ -3,6 +3,10 @@
 - 🌱 Estou aprendendo C# </br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lugabusi/)
+
+<a href="https://www.linkedin.com/in/lugabusi/" target="_blank">
+    <img width="5%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
   
   <img width="100%" src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif">
   <h3>Linguagens</h3> </br>
